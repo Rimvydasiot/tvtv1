@@ -45,3 +45,7 @@ https://live.lnk.lt/lnk_live/smil:lnk_live.smil/chunklist_w2007197886_b3786000_t
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://live.lnk.lt/lnk_live2/tv1hd/chunklist_w314789459_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTc0NzUzMzE0MSZ0b2tlbmhhc2g9LVF2bElxdGxYaWJSRVhKQ1EtQ1VUZmpOckFvVEhmMmVSOGZIc1hoYXpTaTFNT3R1Q3VkcHJvY2hyYTY4TWtlZFVtbldjSk1xT3dVbWRRYkpyU0F2TVE9PQ==.m3u8
+#EXTINF:30,MTV 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
