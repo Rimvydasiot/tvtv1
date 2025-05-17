@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:36,playlist.m3u8
+#EXTINF:36,THT Music
 #EXTVLCOPT:network-caching=1000
 https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
-#EXTINF:0,618.m3u8
+#EXTINF:0,Muz TV
 #EXTVLCOPT:network-caching=1000
 https://streaming.televizor-24-tochka.ru/live/618.m3u8
-#EXTINF:0,SD.m3u8
+#EXTINF:0,1MUZ
 #EXTVLCOPT:network-caching=1000
 http://hz1.teleport.cc/HLS/SD.m3u8
-#EXTINF:0,rtmp.one.by:2200
+#EXTINF:0,1Muz Russian
 #EXTVLCOPT:network-caching=1000
 http://rtmp.one.by:2200
-#EXTINF:0,index.m3u8
+#EXTINF:0,Kino Internacional
 #EXTVLCOPT:network-caching=1000
 https://autopilot.catcast.tv/content/38617/index.m3u8
-#EXTINF:0,13456_264_live.m3u8
+#EXTINF:0,DELUXE Music
 #EXTVLCOPT:network-caching=1000
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:0,64733_264_live.m3u8
+#EXTINF:0,DELUXE Dance
 #EXTVLCOPT:network-caching=1000
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:3600,LRT Lituanica
