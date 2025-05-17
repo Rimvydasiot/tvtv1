@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:36,playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
+#EXTINF:0,618.m3u8
+#EXTVLCOPT:network-caching=1000
+https://streaming.televizor-24-tochka.ru/live/618.m3u8
+#EXTINF:0,SD.m3u8
+#EXTVLCOPT:network-caching=1000
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:0,rtmp.one.by:2200
+#EXTVLCOPT:network-caching=1000
+http://rtmp.one.by:2200
+#EXTINF:0,index.m3u8
+#EXTVLCOPT:network-caching=1000
+https://autopilot.catcast.tv/content/38617/index.m3u8
+#EXTINF:0,13456_264_live.m3u8
+#EXTVLCOPT:network-caching=1000
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:0,64733_264_live.m3u8
+#EXTVLCOPT:network-caching=1000
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:3600,LRT Lituanica
+#EXTVLCOPT:network-caching=1000
+https://stream-live.lrt.lt/lituanica/master.m3u8
+#EXTINF:60,lmergedtv.m3u8
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Rimvydasiot/tvtv1/refs/heads/main/lmergedtv.m3u8
+#EXTINF:60,lmerged+.m3u8
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Rimvydasiot/tvtv1/refs/heads/main/lmerged%2B.m3u8
+#EXTINF:30,2TV - chunklist_w1404470408_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTc0NzUzMzAzMCZ0b2tlbmhhc2g9MExDeEFib0ItQjJfSGU1YWZQaWo2WGVmVGFHOENISTdTUFUzdEJzeWJrT1JmaEJCT2hVekNyb3BZS0NxNFFKNHEtQVlHcDBncWNvejdHZHF5b25ONlE9PQ==.m3u8
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://live.lnk.lt/lnk_live2/2tv/chunklist_w1404470408_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTc0NzUzMzAzMCZ0b2tlbmhhc2g9MExDeEFib0ItQjJfSGU1YWZQaWo2WGVmVGFHOENISTdTUFUzdEJzeWJrT1JmaEJCT2hVekNyb3BZS0NxNFFKNHEtQVlHcDBncWNvejdHZHF5b25ONlE9PQ==.m3u8
+#EXTINF:30,BTV - chunklist_w1201849717_b3786000_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTc0NzUzMjg3MSZ0b2tlbmhhc2g9Vmh6QnEyZkQyWmI1ejgwLTdjZ1g0VkhTdldfdnJLaVdkRkNyR2M3TGpXVlNBcmFJeG5RcVZkbmZETHN6Nk0xM3M1R1h6a295S3ZUdFZiZ1NrZ2N2S3c9PQ==.m3u8
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://live.lnk.lt/lnk_live/smil:btv_live.smil/chunklist_w1201849717_b3786000_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTc0NzUzMjg3MSZ0b2tlbmhhc2g9Vmh6QnEyZkQyWmI1ejgwLTdjZ1g0VkhTdldfdnJLaVdkRkNyR2M3TGpXVlNBcmFJeG5RcVZkbmZETHN6Nk0xM3M1R1h6a295S3ZUdFZiZ1NrZ2N2S3c9PQ==.m3u8
+#EXTINF:30,LNK - chunklist_w2007197886_b3786000_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTc0NzUzMjY5OSZ0b2tlbmhhc2g9a1R4UmY0eWtmMzlpbHIta2pSRGpsQXc5ZjROUndpaGhFV2VqTzYzOXVjQ2Q0TlY3dEg2STJyLWpRMUtabWgzSXZabkZCTW92RDFXNGJHc0xVOVhZX1E9PQ==.m3u8
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://live.lnk.lt/lnk_live/smil:lnk_live.smil/chunklist_w2007197886_b3786000_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTc0NzUzMjY5OSZ0b2tlbmhhc2g9a1R4UmY0eWtmMzlpbHIta2pSRGpsQXc5ZjROUndpaGhFV2VqTzYzOXVjQ2Q0TlY3dEg2STJyLWpRMUtabWgzSXZabkZCTW92RDFXNGJHc0xVOVhZX1E9PQ==.m3u8
+#EXTINF:30,TV1 - chunklist_w314789459_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTc0NzUzMzE0MSZ0b2tlbmhhc2g9LVF2bElxdGxYaWJSRVhKQ1EtQ1VUZmpOckFvVEhmMmVSOGZIc1hoYXpTaTFNT3R1Q3VkcHJvY2hyYTY4TWtlZFVtbldjSk1xT3dVbWRRYkpyU0F2TVE9PQ==.m3u8
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://live.lnk.lt/lnk_live2/tv1hd/chunklist_w314789459_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTc0NzUzMzE0MSZ0b2tlbmhhc2g9LVF2bElxdGxYaWJSRVhKQ1EtQ1VUZmpOckFvVEhmMmVSOGZIc1hoYXpTaTFNT3R1Q3VkcHJvY2hyYTY4TWtlZFVtbldjSk1xT3dVbWRRYkpyU0F2TVE9PQ==.m3u8
