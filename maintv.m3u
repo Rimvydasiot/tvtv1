@@ -29,22 +29,6 @@ https://raw.githubusercontent.com/Rimvydasiot/tvtv1/refs/heads/main/lmergedtv.m3
 #EXTINF:60,lmerged+.m3u8
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/Rimvydasiot/tvtv1/refs/heads/main/lmerged%2B.m3u8
-#EXTINF:30,2TV 
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live2/2tv/chunklist_w1396619594_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTc0NzY0MTE1MiZ0b2tlbmhhc2g9N3E0ZjM0OWl1bHptREs1OWd2Y0o0WWdwMzdQMXNFd19qNjNWRWxxSl9ZY3BGd0NITi1YdGFpXzZxM1lLc3A4ZlpzT0pOYU1HTFlLZjRmRkNPbjV5bHc9PQ==.m3u8
-#EXTINF:30,BTV 
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live/smil:btv_live.smil/chunklist_w1364869347_b1192000_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTc0NzY0MTI2OSZ0b2tlbmhhc2g9U1lDSS1LWGdrVWl1bWNrbjlJZlRjZWMtRzdTVkw4ZzRwMFBXamllT2tEZU5RX0hXZ1AxdE1fLXc1d0J5TUFPMUpqdjBiWVhKSEREZGllV2UzUF9wY2c9PQ==.m3u8
-#EXTINF:30,LNK
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live/smil:lnk_live.smil/chunklist_w201022770_b1192000_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTc0NzY0MDY5NSZ0b2tlbmhhc2g9eEVKYUpVUWtIcTQtX096ZUNpYzV4Y2M4eFhiZkp4bzZMcVRET0RjUk1BenVTalZPcU5JM1Y1dVBVa29DaDZWeUw5UFgxNnZsRWJ6M2FtbUVraTRWU2c9PQ==.m3u8
-#EXTINF:30,TV1 HD kanalas internetu!
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live2/tv1hd/playlist.m3u8?tokenstarttime=0&tokenendtime=1747658285&tokenhash=wA_SMuUPF7yDHyXM61GThfJHHSeXFOUHr7hcoZGrkF8z-Q14gC0bPdLXskkowUdwmeh7uD6Zqv4_qZOcWI7Tgg==
 #EXTINF:30,TVP Polonia
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -53,3 +37,25 @@ https://sdt-epix8-55.tvp.pl/token/video/live/51251441/20250517/1054138333/UbwDmC
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://live.lietuvosryto.tv/live/hls/eteris.m3u8
+#EXTM3U
+#EXTINF:30,LNK HD kanalas internetu
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1747701165&tokenhash=LQNVKavXuZi6FE0Pkjpr96K9jhnXPitA_oQOTOD5JdNQ7998V7EmVVuwwpRbWQso__0cv5ZbbkHC2zLSXG0ppA==
+#EXTINF:30,LNK HD kanalas internetu
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1747701166&tokenhash=gpAIzo-PRbKwPDHHPq_TKamhW60dTUPX_0xKuyWY7qc04GYM3LUvNHM9f1Raa0LzMjP5ZJEJzgQ1sZYYy1xv8Q==
+#EXTINF:30,BTV HD kanalas internetu!
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://live.lnk.lt/lnk_live/smil:btv_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1747701201&tokenhash=73DybXri4gb9mTu30NqkzNdkk9PGaPEYbxg8PD7x7ASzFyvEVrF28US0kvF5MAV9l6q78OfmAa97Q0zx2ycFiQ==
+#EXTINF:30,2TV HD kanalas internetu
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=1747701215&tokenhash=B7Z5woyoCt32OIxouadeefPfXd8BxXguqeoQy3DOHTCpc7ZUfxYzb_5ABGphyeFjV2RpPLx-4RDTdGuyaff1hA==
+#EXTINF:30,TV1 HD kanalas internetu!
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://live.lnk.lt/lnk_live2/tv1hd/playlist.m3u8?tokenstarttime=0&tokenendtime=1747701237&tokenhash=gnNleg5h5oXnT7CFViTYqNQUFhjpwqVtz7D3V96RzC5IninCoLh57ymGVRzJObshyr2T8oEZfU59HepgxQj9QA==
+
