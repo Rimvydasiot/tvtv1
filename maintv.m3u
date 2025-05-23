@@ -41,6 +41,11 @@ https://live.lietuvosryto.tv/live/hls/eteris.m3u8
 #EXTINF:30,LNK HD kanalas internetu
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
+https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1748064843&tokenhash=VVpgNnloUVGWSpGNI02SiIsCxfu0sc-17eR0ENvKhPoZFR3PwFcKxYGgRbpgT9ueGAi8_HsGo_LbsFoHQSwApA==
+
+#EXTINF:30,LNK HD kanalas internetu
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1748064844&tokenhash=l8Q4iefFk3Zy7G_v-N4h0WSQK4zZUNLN2tsGeBmsP1Sdhhyg0v_M3FxHsmcTQuWaJ_wb5d1zn_7ev-r5HySarg==
 
 #EXTINF:30,BTV HD kanalas internetu!
@@ -57,4 +62,5 @@ https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=17
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://live.lnk.lt/lnk_live2/tv1hd/playlist.m3u8?tokenstarttime=0&tokenendtime=1748064876&tokenhash=T8igsAQk-u6WvUNu8KbSQE_38-OSO0jK2xvwyjd7zMtfQcuWV3z6Gz51u4i6ShFDnAgRvEoqKulQzcnogQc3pA==
+
 
