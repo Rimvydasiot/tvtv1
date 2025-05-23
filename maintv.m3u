@@ -37,23 +37,24 @@ https://sdt-epix8-55.tvp.pl/token/video/live/51251441/20250517/1054138333/UbwDmC
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://live.lietuvosryto.tv/live/hls/eteris.m3u8
+
 #EXTINF:30,LNK HD kanalas internetu
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1747727785&tokenhash=b3Zv9jmyeiBxCXVOfWml92gqvXLjL8GRCUnoLGq4uQ511v74Yf5kDaPhKGiHkqDzMSjz2moyOTyb94-k9kQytA==
+https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1748064844&tokenhash=l8Q4iefFk3Zy7G_v-N4h0WSQK4zZUNLN2tsGeBmsP1Sdhhyg0v_M3FxHsmcTQuWaJ_wb5d1zn_7ev-r5HySarg==
 
 #EXTINF:30,BTV HD kanalas internetu!
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live/smil:btv_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1747727823&tokenhash=NdSJmUuCV5sz_DjqSZp6qSvmTb76h248o_E_8-oHUyW7EUlvDpWIyRLVtXSWs1qJ73NnGun2yNNtRidhs2QU8g==
+https://live.lnk.lt/lnk_live/smil:btv_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1748064853&tokenhash=CUReX5BGGMCvrOdF76zx46xcbAHQsUWKRv7VNyAdSCJ2RYw64hBlLI8QZCATPrcDfk61xNnHZehDl_8jVCMaXw==
 
 #EXTINF:30,2TV HD kanalas internetu
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=1747727834&tokenhash=KVelXCUzALi-X6GFI0lrA-SzQFVPLuTlOF2ZBBJIhT2927u6Q3K9ATLmuECzQ68kJouVdDe8JvC0zvJDH99BjQ==
+https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=1748064864&tokenhash=klMfmUPlG2iRmrhJR4fSw4jXX7DE0qcFpa__AlVGDgqRPacThqZP6_mssqPG40OMcL344jpOF6ZIo7BOSX8Crg==
 
 #EXTINF:30,TV1 HD kanalas internetu!
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live2/tv1hd/playlist.m3u8?tokenstarttime=0&tokenendtime=1747727847&tokenhash=7ogdQXQ8_LPioNNYM5Xlmr6zAquiJiBrGjVbWL0gmoNwT2R9v8KDGxtx9cIcp8MsPeXaOg2xJ81DRAAUisQSRA==
+https://live.lnk.lt/lnk_live2/tv1hd/playlist.m3u8?tokenstarttime=0&tokenendtime=1748064876&tokenhash=T8igsAQk-u6WvUNu8KbSQE_38-OSO0jK2xvwyjd7zMtfQcuWV3z6Gz51u4i6ShFDnAgRvEoqKulQzcnogQc3pA==
 
