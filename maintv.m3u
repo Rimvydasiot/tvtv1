@@ -46,6 +46,7 @@ https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&t
 #EXTINF:30,LNK HD kanalas internetu
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
+#EXT-X-STREAM-INF:BANDWIDTH=3786000,CODECS="avc1.4d0028,mp4a.40.2",RESOLUTION=1920x1080
 https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1748132554&tokenhash=WWXXnQuHB3FRMXiXTWzI2RvopnbN-3qvl2LM21vRKuFQanpwgYbDYBJPI2CqmYoYNbQcPy4c_18LKpLFzUsH_Q==
 
 #EXTINF:30,BTV HD kanalas internetu!
