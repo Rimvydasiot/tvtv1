@@ -41,25 +41,20 @@ https://live.lietuvosryto.tv/live/hls/eteris.m3u8
 #EXTINF:30,LNK HD kanalas internetu
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1748302890&tokenhash=FN2tubmzBkXW-cB-O7uE4TyphtgcisXNMKxQLpriYPgkFmY7D3AKxatqvT9lSEpBOEXRhHTgI4g39QNP-RnRPw==
-
-#EXTINF:30,LNK HD kanalas internetu
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1748302891&tokenhash=PKXbV7GLTpi7NrNNG3vwUwANWow7dFas0CJigzZXBfdJHURv38UCO6bpLpXnDxXfsAOKgLZq3VVpff_hxb1dIQ==
+https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1748403704&tokenhash=X5SiPUuH_jyVXGbqe6rJGaQ5-Xt3nSrQZYYrc9krejIXnnWxWLr_-CoCZpdnowbOjO-6yMY4bAJmXJrnnAFofA==
 
 #EXTINF:30,BTV HD kanalas internetu!
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live/smil:btv_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1748302915&tokenhash=7yIBvkpjeVZCwf1W-orzaPNbKGVCVhqFfnevvEzAOjlzw746Vs4iMjQiXebVHVMB0F5isbRJceQzvYne6hHHIw==
+https://live.lnk.lt/lnk_live/smil:btv_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1748403730&tokenhash=PeHyIpkS-__SrIP26P0iCEoDQAUmKVX1_3uQuow_qfa6Smiyuoc8j45kGp04-oUB8MLQLoenUPCPHoTqrn76yw==
 
 #EXTINF:30,2TV HD kanalas internetu
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=1748302926&tokenhash=F-eGu1IqOoaI2gJCDWil5HYbFi6yThVdfzkNcYd2JLwfBKjdvXgiaI6S63X2gBnIYNQzdhNnzr05aQAcMlTf-w==
+https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=1748403740&tokenhash=ZX3TFkD28isu3IBeYqWTkp5sTzmvdBspNt1TIfs7_UJE5rjAgdKDhCrcd0_k3QX-TmoGFOPQuMbL8VwBOGwMwg==
 
 #EXTINF:30,TV1 HD kanalas internetu!
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live2/tv1hd/playlist.m3u8?tokenstarttime=0&tokenendtime=1748302937&tokenhash=AdWAneF-S1_gxlIsSwIc4BeX6Wqst3CK93QP5ban5ceqwfV60Pnt_gPUvmc7opzHalAn7rWGrswe8THbppJq1w==
+https://live.lnk.lt/lnk_live2/tv1hd/playlist.m3u8?tokenstarttime=0&tokenendtime=1748403751&tokenhash=qMc6FFWL-aTCAFR7eDPELoCstJVWNdpEa_-dTmH12fm6pdOR1aDt1AwjzBKG_3wjOIsrVe-Lc7E3y7oFpuqJSg==
 
