@@ -41,20 +41,20 @@ https://live.lietuvosryto.tv/live/hls/eteris.m3u8
 #EXTINF:30,LNK HD kanalas internetu
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1748403704&tokenhash=X5SiPUuH_jyVXGbqe6rJGaQ5-Xt3nSrQZYYrc9krejIXnnWxWLr_-CoCZpdnowbOjO-6yMY4bAJmXJrnnAFofA==
+https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1748753787&tokenhash=uyB3G_wQ2uiwXWe2ICAmYmwSOa4f513FcLzzKI1x80mUiLBggPrwyfHJ-7xytPx9w0D4h6JI3a7Lx-gG0f6M9A==
 
 #EXTINF:30,BTV HD kanalas internetu!
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live/smil:btv_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1748403730&tokenhash=PeHyIpkS-__SrIP26P0iCEoDQAUmKVX1_3uQuow_qfa6Smiyuoc8j45kGp04-oUB8MLQLoenUPCPHoTqrn76yw==
+https://live.lnk.lt/lnk_live/smil:btv_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1748753805&tokenhash=r8BcJT-RdsZgc0Wn7y00_GhYpuNrX3YyIhTdKlyMHyN4yjg2cRIPrjGY6CwBTZ56TNJmG-rpielIbFW4cMD4xA==
 
 #EXTINF:30,2TV HD kanalas internetu
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=1748403740&tokenhash=ZX3TFkD28isu3IBeYqWTkp5sTzmvdBspNt1TIfs7_UJE5rjAgdKDhCrcd0_k3QX-TmoGFOPQuMbL8VwBOGwMwg==
+https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=1748753816&tokenhash=krfP2mYwjZzt2UNS7Pag5aRykHjQtN0eBoTfWf6RyvOkJiHUlN15EQRskB_d3LQ4N9voSr6zdaUKnwJfga54GQ==
 
 #EXTINF:30,TV1 HD kanalas internetu!
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live2/tv1hd/playlist.m3u8?tokenstarttime=0&tokenendtime=1748403751&tokenhash=qMc6FFWL-aTCAFR7eDPELoCstJVWNdpEa_-dTmH12fm6pdOR1aDt1AwjzBKG_3wjOIsrVe-Lc7E3y7oFpuqJSg==
+https://live.lnk.lt/lnk_live2/tv1hd/playlist.m3u8?tokenstarttime=0&tokenendtime=1748753827&tokenhash=jBzhOzfjQ_NHUXD5Ho_l7afuuqgs6eQGxvVzPI1imsbQhXKoJGdOE3bnk5KtFDMpeKKROLFcquZrp870rdVsPg==
 
