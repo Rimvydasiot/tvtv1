@@ -41,20 +41,20 @@ https://live.lietuvosryto.tv/live/hls/eteris.m3u8
 #EXTINF:30,LNK HD kanalas internetu
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1748753787&tokenhash=uyB3G_wQ2uiwXWe2ICAmYmwSOa4f513FcLzzKI1x80mUiLBggPrwyfHJ-7xytPx9w0D4h6JI3a7Lx-gG0f6M9A==
+https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1748903032&tokenhash=erjJBf0EtJ-1sNVzQZCNQ4wOaN_p1kKLsYhobc26pGch008_yVKLVh-4gPh5ewOJ3Y_IXPMPaTzpQUuFdr2W7w==
 
 #EXTINF:30,BTV HD kanalas internetu!
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live/smil:btv_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1748753805&tokenhash=r8BcJT-RdsZgc0Wn7y00_GhYpuNrX3YyIhTdKlyMHyN4yjg2cRIPrjGY6CwBTZ56TNJmG-rpielIbFW4cMD4xA==
+https://live.lnk.lt/lnk_live/smil:btv_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1748903050&tokenhash=j3kk97I_HpFIn6__SqLiAxCN9uWbcFMZyuA1goOQieH7BYoySLZqxa8TSHd4BMenZdqvON4hpugbT_-wJKBH1A==
 
 #EXTINF:30,2TV HD kanalas internetu
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=1748753816&tokenhash=krfP2mYwjZzt2UNS7Pag5aRykHjQtN0eBoTfWf6RyvOkJiHUlN15EQRskB_d3LQ4N9voSr6zdaUKnwJfga54GQ==
+https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=1748903061&tokenhash=5RNxMgUcWdtFaQLCZWlMC8yq6n6AoSGHd52z9lkGWaAoIH2SEJ51dvKRhYAM7hRPcBQJwah1fXlqc7ZW9VKTdg==
 
 #EXTINF:30,TV1 HD kanalas internetu!
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live2/tv1hd/playlist.m3u8?tokenstarttime=0&tokenendtime=1748753827&tokenhash=jBzhOzfjQ_NHUXD5Ho_l7afuuqgs6eQGxvVzPI1imsbQhXKoJGdOE3bnk5KtFDMpeKKROLFcquZrp870rdVsPg==
+https://live.lnk.lt/lnk_live2/tv1hd/playlist.m3u8?tokenstarttime=0&tokenendtime=1748903073&tokenhash=Xk55O-f19Hqrj05pmpVi2Fzpzdc_ck_EWA3AdKNhARdgtBxiCMAwReM9ik7MFhdc8o04_8QVYY1kZXFHc5uGBQ==
 
