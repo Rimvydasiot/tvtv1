@@ -41,19 +41,19 @@ https://live.lietuvosryto.tv/live/hls/eteris.m3u8
 #EXTINF:30,LNK HD kanalas internetu
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1749103121&tokenhash=eyDddlyr93XGjqim52su5k00CK6T-c1_qVxl6bZUEGA99e5tM_SacTjxML2NcBm83qYjzmekbAZcaFoOLu51UA==
+https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1749188690&tokenhash=UdqnD3vi2_-Xui4hNbLZZD3LzdcITd1FzUUfrYcT8qa37IGwJZG-FgtFnOs8-OJHDZRlft2Hw_uFJEjfcTIWUQ==
 
 #EXTINF:30,BTV HD kanalas internetu!
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live/smil:btv_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1749103153&tokenhash=jvsuMyWa8jUoFi8Cpwj-7b4yNHXaSZ2TiFGkW5oXRKmhB26ipcvaHcOrtDpkKb-KXdyhIf_woCwXMHeTlCidpw==
+https://live.lnk.lt/lnk_live/smil:btv_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1749188711&tokenhash=iWuWV5GI1y2WmFieBN362ydhhv5e4R25JgspN5w22yhJZLOB_2-AjJFN-qYv6Ovwhmlw6RWYmAkWr3SyYBZVxg==
 
 #EXTINF:30,2TV HD kanalas internetu
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=1749103163&tokenhash=6uPxLKFEPUMBpT3bOeousSBJpiHdxZEE7tQhlECW8ZFO_OdQrf1XX5vanj5uYUsQRqR4l9XbqjUo4DtC_pbunw==
+https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=1749188724&tokenhash=xy4h9Uy15ylFA9zYxe1g_To6H4FjRX6CFKzAHOINetmHvg5hrULseXCdm1m6pZSFpbSKp6k6KUo1Fkf694rEzw==
 
 #EXTINF:30,TV1 HD kanalas internetu!
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live2/tv1hd/playlist.m3u8?tokenstarttime=0&tokenendtime=1749103174&tokenhash=wReO4jUTPAmd6f43Pb3-ZS3xpUbV_ewN11we2V1Lt7L7_DyrIG4YhGWwC68wQeBpaJKTJCEG3m5mTBzGHsTATg==
+https://live.lnk.lt/lnk_live2/tv1hd/playlist.m3u8?tokenstarttime=0&tokenendtime=1749188735&tokenhash=CFxLzmhZlyxrPR8B2fPIEC1GpwsZIcrrBWjMbwIsmI9OHBGN2FHQKM7jtQUHXDRiNHOj31b5yzYgz2m_kMjwyg==
