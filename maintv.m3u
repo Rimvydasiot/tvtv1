@@ -41,19 +41,20 @@ https://live.lietuvosryto.tv/live/hls/eteris.m3u8
 #EXTINF:30,LNK HD kanalas internetu
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1749350474&tokenhash=Y2O1KNBn9vzBmqrqB_A9G8zHhUVyTk3jEzOplFCmchlEcD74UEFAlBk87XrIca9LWNHhZZX8-UyyM6lr6-Utuw==
+https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1749884902&tokenhash=Lsdf0uPQvZABVIPqNaldbvVbE19DOMklPcuxc5bnTl7EEby50D80wGEw0Sa6lmuC8YNQ7jdCd5QUu4_zkmHITQ==
 
 #EXTINF:30,BTV HD kanalas internetu!
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live/smil:btv_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1749350506&tokenhash=5-BjZWhLdBaoCkOvVYBGIUc9L2jLO2xd1lH3Cwf0C1IcTYRKIjHbVJTWrEvcOX6kPoxQuNKH-zdM2KO58-F19Q==
+https://live.lnk.lt/lnk_live/smil:btv_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1749884925&tokenhash=00KQWYKNka27cgOarKrwMfbQPLRAK2LsavCzMfhoAWz2rOknB0Uq_1s0ReyZ01BFB4e2QJvCXFj_LjR6Gi5rCA==
 
 #EXTINF:30,2TV HD kanalas internetu
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=1749350518&tokenhash=0-Pvs8ItBmvgMSSy0hJke9myKVrKcpbnAkf6Y6nkiSjzFy4IsCpAnMvnDI35etYUTB3k0TPdrLy5gxNkr3LK3A==
+https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=1749884937&tokenhash=HQDs5U7bcimmDqJGLSDWUx0PuVHNmfrHl1RxVq-ktGIcmrHWJtZJzgekXb5Jp_8-KpmkPdgVCxH3S6egPcxH5g==
 
 #EXTINF:30,TV1 HD kanalas internetu!
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live2/tv1hd/playlist.m3u8?tokenstarttime=0&tokenendtime=1749350529&tokenhash=SWkhhgCnjMuRcMJdCwjElz_t_9-ydwLT4FHvGxdrzcDjjJkNaNP3DHoOjv0C_wt7kmuINh3_95XNGufmhWHSHg==
+https://live.lnk.lt/lnk_live2/tv1hd/playlist.m3u8?tokenstarttime=0&tokenendtime=1749884948&tokenhash=u4UOgZpJxHw7udTpL8yv-bYU0tgz_agRN8Yb02Wil4UurLejGLsb3E0ebaThfEErIbft5pE6a77JbWvHxi8F4A==
+
