@@ -41,20 +41,20 @@ https://live.lietuvosryto.tv/live/hls/eteris.m3u8
 #EXTINF:30,LNK HD kanalas internetu
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1749884902&tokenhash=Lsdf0uPQvZABVIPqNaldbvVbE19DOMklPcuxc5bnTl7EEby50D80wGEw0Sa6lmuC8YNQ7jdCd5QUu4_zkmHITQ==
+https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1749954487&tokenhash=HnFqVFOF_wbUneSqul7aZsWFJvV_5qlYKUx_1hgPXPY7lhx1WE9OJY_BzSZBSFJ0I6N2ajFwY3-Li-obrPDxYw==
 
 #EXTINF:30,BTV HD kanalas internetu!
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live/smil:btv_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1749884925&tokenhash=00KQWYKNka27cgOarKrwMfbQPLRAK2LsavCzMfhoAWz2rOknB0Uq_1s0ReyZ01BFB4e2QJvCXFj_LjR6Gi5rCA==
+https://live.lnk.lt/lnk_live/smil:btv_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1749954499&tokenhash=ahFZyVmX60nPyqtUpwc6MHBb9U-M20UtTGsnXjYjtYwMLOAz5KObhgYe0WpoQsoDLtRPtRmSTvOuaT__U5n2Cg==
 
 #EXTINF:30,2TV HD kanalas internetu
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=1749884937&tokenhash=HQDs5U7bcimmDqJGLSDWUx0PuVHNmfrHl1RxVq-ktGIcmrHWJtZJzgekXb5Jp_8-KpmkPdgVCxH3S6egPcxH5g==
+https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=1749954511&tokenhash=bLZdYNUGPzy98xqPvtZiGtx0_xBy_W6IBKs0loqm47Mx6k7iTnWrL9chnUye7UCeHxFmlgRbZ5-E4-wN1Z0Q8A==
 
 #EXTINF:30,TV1 HD kanalas internetu!
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live2/tv1hd/playlist.m3u8?tokenstarttime=0&tokenendtime=1749884948&tokenhash=u4UOgZpJxHw7udTpL8yv-bYU0tgz_agRN8Yb02Wil4UurLejGLsb3E0ebaThfEErIbft5pE6a77JbWvHxi8F4A==
+https://live.lnk.lt/lnk_live2/tv1hd/playlist.m3u8?tokenstarttime=0&tokenendtime=1749954522&tokenhash=wRF5SzA2Q1RUkeyv_e2eT3M0-EK4oyx0Onn6n072ap2DG-CsdYP8afHpRq32OX6SrBUvmee0UUAk5OJXrRvRrw==
 
