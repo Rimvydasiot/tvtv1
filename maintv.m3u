@@ -41,20 +41,20 @@ https://live.lietuvosryto.tv/live/hls/eteris.m3u8
 #EXTINF:30,LNK HD kanalas internetu
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1749954487&tokenhash=HnFqVFOF_wbUneSqul7aZsWFJvV_5qlYKUx_1hgPXPY7lhx1WE9OJY_BzSZBSFJ0I6N2ajFwY3-Li-obrPDxYw==
+https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1750036329&tokenhash=B53fwxeWAOtWOgrvD5RPK-rSOLDKW7-fEavHV0EtMg_BR3jCNO7a6_0EwlPqqZ6NK1szM47fShwf-yml5hn3xw==
 
 #EXTINF:30,BTV HD kanalas internetu!
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live/smil:btv_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1749954499&tokenhash=ahFZyVmX60nPyqtUpwc6MHBb9U-M20UtTGsnXjYjtYwMLOAz5KObhgYe0WpoQsoDLtRPtRmSTvOuaT__U5n2Cg==
+https://live.lnk.lt/lnk_live/smil:btv_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1750036360&tokenhash=kyUdKfX7_vOKRsOBAswR1QeK8IkhLqVzEq_Zhe2IhrUxZyrFL3k_4O0EobNk0_or35xV39rQqSo8J9hzL7kJtg==
 
 #EXTINF:30,2TV HD kanalas internetu
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=1749954511&tokenhash=bLZdYNUGPzy98xqPvtZiGtx0_xBy_W6IBKs0loqm47Mx6k7iTnWrL9chnUye7UCeHxFmlgRbZ5-E4-wN1Z0Q8A==
+https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=1750036371&tokenhash=UKTzDqbimTaMB5d5_c9bnsmG-1FlxhVzK8l4hT-s68cfKL7lSxEwKj-y-be-5Lgz8VRtk7Xjs0fCfMwhGILRBQ==
 
 #EXTINF:30,TV1 HD kanalas internetu!
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live2/tv1hd/playlist.m3u8?tokenstarttime=0&tokenendtime=1749954522&tokenhash=wRF5SzA2Q1RUkeyv_e2eT3M0-EK4oyx0Onn6n072ap2DG-CsdYP8afHpRq32OX6SrBUvmee0UUAk5OJXrRvRrw==
+https://live.lnk.lt/lnk_live2/tv1hd/playlist.m3u8?tokenstarttime=0&tokenendtime=1750036382&tokenhash=GdFjhBFNSl3LJ9-I2DwzZEhs0fZ2g0BE5-B7nJhWhq5oX_3ksm5hOIjSwP5jz9yLkxcKPhStmYEVIUxhqBvWhQ==
 
