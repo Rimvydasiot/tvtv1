@@ -41,19 +41,19 @@ https://live.lietuvosryto.tv/live/hls/eteris.m3u8
 #EXTINF:30,LNK HD kanalas internetu
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1750130765&tokenhash=BxfRfwldrEt8S8ek3UrrGP-KKozHEP3GkETUG9v7d610WR4bWRgGMPeOJtID2n1KpZrCorXjcR-PTMmU5-osnA==
+https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1750206326&tokenhash=5-KlXSLmxj4BKIfdQNbRY9RNWf_ousXdmBPFp9zQ4-NTiVj_RRY0n5gOZ2yb--HQdW3hkE4fTXzYSU_01hCOWA==
 
 #EXTINF:30,BTV HD kanalas internetu!
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live/smil:btv_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1750130802&tokenhash=i6bO9R9-70cWsP7j6NJaKdpkkx0o2HS6s0sscpDh5d2xTJaTZ4_6iq0nRU3unnpqJ-dFD0xQKZ3D3nWszqzfIQ==
+https://live.lnk.lt/lnk_live/smil:btv_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1750206339&tokenhash=EqJWjpK4uk3eWcnD4EB2qxbxJOSj0gc6l4R9d8F0qGcXos5_T2Wm0l-NxeI08hvIau_KQkp7ec2_t-wjo9d7RQ==
 
 #EXTINF:30,2TV HD kanalas internetu
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=1750130813&tokenhash=tWTKSzMw1LQU_Rja5R7whMdYpJZBnkPVHzFLkUL8BLKwfKVbwFjkChGu7-GN12YucpbhRshFc9Ginrut7WQF4w==
+https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=1750206350&tokenhash=RLtSs70CBjJHubT5H5SsPf_QsPjtXpO-FhUE51_mwZl8u2Wng8SrXM7g8HR9_Xq73avTnktvQDJWP2xbPqxRsA==
 
 #EXTINF:30,TV1 HD kanalas internetu!
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://live.lnk.lt/lnk_live2/tv1hd/playlist.m3u8?tokenstarttime=0&tokenendtime=1750130824&tokenhash=fdRKqyL24QTBQ-py3eXYaW9pIB_-SuA8AtJumXHXVVo548U_Q1Rjk-APoArLAJQ9ezdPDePOD-n40YdmVsNmIQ==
+https://live.lnk.lt/lnk_live2/tv1hd/playlist.m3u8?tokenstarttime=0&tokenendtime=1750206361&tokenhash=DpvGr5aSQ4qnsZ-9rloqIfwCDe7g5IaPjYaKsUgngtacVGz9dQzCDhSMoyVnsP9hmLszm5JbXi2QGbFd-dxZYA==
